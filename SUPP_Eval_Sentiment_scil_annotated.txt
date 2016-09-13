@@ -1,0 +1,337 @@
+*Evaluating the saved model by using the supplied test data (only the instances with known true predictions)
+
+Dataset: scil_annotated (1)
+Language of the dataset: English
+Dimension: Sentiment
+Classifier: class weka.classifiers.bayes.NaiveBayes
+Classifier parameters: 
+  
+
+Naive Bayes Classifier
+
+Class irrelevant: Prior probability = 0.12
+
+3_dai:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+4_million:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+AMPERSAND:  Normal Distribution. Mean = 0.0698 StandardDev = 0.2548 WeightSum = 129 Precision = 1.0
+ASTERISK:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+AT_SIGN:  Normal Distribution. Mean = 0.9457 StandardDev = 0.2265 WeightSum = 129 Precision = 1.0
+BOL_appl:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_dear:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_hei:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_iphon:  Normal Distribution. Mean = 0.0155 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_love:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_new:  Normal Distribution. Mean = 0.0155 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_rt:  Normal Distribution. Mean = 0.0698 StandardDev = 0.2548 WeightSum = 129 Precision = 1.0
+BOL_thank:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+BOL_wait:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+CLOSE_PAREN:  Normal Distribution. Mean = 0.0775 StandardDev = 0.2674 WeightSum = 129 Precision = 1.0
+COLON:  Normal Distribution. Mean = 0.4729 StandardDev = 0.4993 WeightSum = 129 Precision = 1.0
+COMMA:  Normal Distribution. Mean = 0.155 StandardDev = 0.3619 WeightSum = 129 Precision = 1.0
+DASH:  Normal Distribution. Mean = 0.0775 StandardDev = 0.2674 WeightSum = 129 Precision = 1.0
+DOLLAR:  Normal Distribution. Mean = 0.0233 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+EXCLAMATION_MARK:  Normal Distribution. Mean = 0.1628 StandardDev = 0.3692 WeightSum = 129 Precision = 1.0
+FORWARDSLASH:  Normal Distribution. Mean = 0.3643 StandardDev = 0.4812 WeightSum = 129 Precision = 1.0
+NUMBER_SIGN:  Normal Distribution. Mean = 0.2868 StandardDev = 0.4523 WeightSum = 129 Precision = 1.0
+PERCENT_SIGN:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+PERIOD:  Normal Distribution. Mean = 0.6279 StandardDev = 0.4834 WeightSum = 129 Precision = 1.0
+PLUSSIGN:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+QUESTION_MARK:  Normal Distribution. Mean = 0.1628 StandardDev = 0.3692 WeightSum = 129 Precision = 1.0
+SEMI_COLON:  Normal Distribution. Mean = 0.0775 StandardDev = 0.2674 WeightSum = 129 Precision = 1.0
+app_store:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_fan:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_io:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_iphon:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_ipod:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_pleas:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_sell:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_store:  Normal Distribution. Mean = 0.0388 StandardDev = 0.193 WeightSum = 129 Precision = 1.0
+appl_tech:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+appl_thank:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+babi_memori:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+batteri_drain:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+batteri_life:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+custom_servic:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+eric_holder:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+fan_eric:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+geniu_bar:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+geniu_store:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+great_tech:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+hello_world:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+holder_spot:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+io_5:  Normal Distribution. Mean = 0.0155 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+ios5_updat:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+iphon_4:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+iphon_4s:  Normal Distribution. Mean = 0.0155 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+ipod_touch:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+macbook_pro:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+memori_app:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+million_iphon:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+mommi_gaga:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+new_io:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+new_ios5:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+new_iphon:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+new_mov:  Normal Distribution. Mean = 0.0388 StandardDev = 0.193 WeightSum = 129 Precision = 1.0
+new_phone:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+pamper_hello:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+sell_4:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+sold_4:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+steve_job:  Normal Distribution. Mean = 0.0078 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+tech_war:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+world_babi:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 129 Precision = 1.0
+
+
+Class negative: Prior probability = 0.28
+
+3_dai:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+4_million:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+AMPERSAND:  Normal Distribution. Mean = 0.069 StandardDev = 0.2534 WeightSum = 290 Precision = 1.0
+ASTERISK:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+AT_SIGN:  Normal Distribution. Mean = 0.9759 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_appl:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_dear:  Normal Distribution. Mean = 0.0345 StandardDev = 0.1825 WeightSum = 290 Precision = 1.0
+BOL_hei:  Normal Distribution. Mean = 0.0241 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_iphon:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_love:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_new:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_rt:  Normal Distribution. Mean = 0.0517 StandardDev = 0.2215 WeightSum = 290 Precision = 1.0
+BOL_thank:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+BOL_wait:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+CLOSE_PAREN:  Normal Distribution. Mean = 0.031 StandardDev = 0.1734 WeightSum = 290 Precision = 1.0
+COLON:  Normal Distribution. Mean = 0.1931 StandardDev = 0.3947 WeightSum = 290 Precision = 1.0
+COMMA:  Normal Distribution. Mean = 0.3034 StandardDev = 0.4597 WeightSum = 290 Precision = 1.0
+DASH:  Normal Distribution. Mean = 0.1138 StandardDev = 0.3176 WeightSum = 290 Precision = 1.0
+DOLLAR:  Normal Distribution. Mean = 0.0138 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+EXCLAMATION_MARK:  Normal Distribution. Mean = 0.2586 StandardDev = 0.4379 WeightSum = 290 Precision = 1.0
+FORWARDSLASH:  Normal Distribution. Mean = 0.1207 StandardDev = 0.3258 WeightSum = 290 Precision = 1.0
+NUMBER_SIGN:  Normal Distribution. Mean = 0.3517 StandardDev = 0.4775 WeightSum = 290 Precision = 1.0
+PERCENT_SIGN:  Normal Distribution. Mean = 0.0241 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+PERIOD:  Normal Distribution. Mean = 0.631 StandardDev = 0.4825 WeightSum = 290 Precision = 1.0
+PLUSSIGN:  Normal Distribution. Mean = 0.0138 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+QUESTION_MARK:  Normal Distribution. Mean = 0.2276 StandardDev = 0.4193 WeightSum = 290 Precision = 1.0
+SEMI_COLON:  Normal Distribution. Mean = 0.0241 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+app_store:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_fan:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_io:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_iphon:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_ipod:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_pleas:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_sell:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_store:  Normal Distribution. Mean = 0.0483 StandardDev = 0.2143 WeightSum = 290 Precision = 1.0
+appl_tech:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+appl_thank:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+babi_memori:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+batteri_drain:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+batteri_life:  Normal Distribution. Mean = 0.0172 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+custom_servic:  Normal Distribution. Mean = 0.0345 StandardDev = 0.1825 WeightSum = 290 Precision = 1.0
+eric_holder:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+fan_eric:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+geniu_bar:  Normal Distribution. Mean = 0.0172 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+geniu_store:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+great_tech:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+hello_world:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+holder_spot:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+io_5:  Normal Distribution. Mean = 0.0483 StandardDev = 0.2143 WeightSum = 290 Precision = 1.0
+ios5_updat:  Normal Distribution. Mean = 0.0138 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+iphon_4:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+iphon_4s:  Normal Distribution. Mean = 0.0414 StandardDev = 0.1992 WeightSum = 290 Precision = 1.0
+ipod_touch:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+macbook_pro:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+memori_app:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+million_iphon:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+mommi_gaga:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+new_io:  Normal Distribution. Mean = 0.0138 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+new_ios5:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+new_iphon:  Normal Distribution. Mean = 0.0034 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+new_mov:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+new_phone:  Normal Distribution. Mean = 0.0069 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+pamper_hello:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+sell_4:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+sold_4:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+steve_job:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+tech_war:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+world_babi:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 290 Precision = 1.0
+
+
+Class neutral: Prior probability = 0.46
+
+3_dai:  Normal Distribution. Mean = 0.0062 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+4_million:  Normal Distribution. Mean = 0.0227 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+AMPERSAND:  Normal Distribution. Mean = 0.0537 StandardDev = 0.2255 WeightSum = 484 Precision = 1.0
+ASTERISK:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+AT_SIGN:  Normal Distribution. Mean = 0.9731 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_appl:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_dear:  Normal Distribution. Mean = 0.0207 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_hei:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_iphon:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+BOL_love:  Normal Distribution. Mean = 0.0021 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_new:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_rt:  Normal Distribution. Mean = 0.0847 StandardDev = 0.2785 WeightSum = 484 Precision = 1.0
+BOL_thank:  Normal Distribution. Mean = 0.0062 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+BOL_wait:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+CLOSE_PAREN:  Normal Distribution. Mean = 0.0475 StandardDev = 0.2127 WeightSum = 484 Precision = 1.0
+COLON:  Normal Distribution. Mean = 0.4421 StandardDev = 0.4966 WeightSum = 484 Precision = 1.0
+COMMA:  Normal Distribution. Mean = 0.2417 StandardDev = 0.4281 WeightSum = 484 Precision = 1.0
+DASH:  Normal Distribution. Mean = 0.1281 StandardDev = 0.3342 WeightSum = 484 Precision = 1.0
+DOLLAR:  Normal Distribution. Mean = 0.0186 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+EXCLAMATION_MARK:  Normal Distribution. Mean = 0.1591 StandardDev = 0.3658 WeightSum = 484 Precision = 1.0
+FORWARDSLASH:  Normal Distribution. Mean = 0.3698 StandardDev = 0.4828 WeightSum = 484 Precision = 1.0
+NUMBER_SIGN:  Normal Distribution. Mean = 0.3988 StandardDev = 0.4896 WeightSum = 484 Precision = 1.0
+PERCENT_SIGN:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+PERIOD:  Normal Distribution. Mean = 0.6736 StandardDev = 0.4689 WeightSum = 484 Precision = 1.0
+PLUSSIGN:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+QUESTION_MARK:  Normal Distribution. Mean = 0.2128 StandardDev = 0.4093 WeightSum = 484 Precision = 1.0
+SEMI_COLON:  Normal Distribution. Mean = 0.0207 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+app_store:  Normal Distribution. Mean = 0.0227 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_fan:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_io:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_iphon:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_ipod:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+appl_pleas:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_sell:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_store:  Normal Distribution. Mean = 0.0661 StandardDev = 0.2485 WeightSum = 484 Precision = 1.0
+appl_tech:  Normal Distribution. Mean = 0.0021 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+appl_thank:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+babi_memori:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+batteri_drain:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+batteri_life:  Normal Distribution. Mean = 0.0021 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+custom_servic:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+eric_holder:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+fan_eric:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+geniu_bar:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+geniu_store:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+great_tech:  Normal Distribution. Mean = 0.0165 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+hello_world:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+holder_spot:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+io_5:  Normal Distribution. Mean = 0.0124 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+ios5_updat:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+iphon_4:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+iphon_4s:  Normal Distribution. Mean = 0.0909 StandardDev = 0.2875 WeightSum = 484 Precision = 1.0
+ipod_touch:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+macbook_pro:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+memori_app:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+million_iphon:  Normal Distribution. Mean = 0.0103 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+mommi_gaga:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+new_io:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+new_ios5:  Normal Distribution. Mean = 0.0021 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+new_iphon:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+new_mov:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+new_phone:  Normal Distribution. Mean = 0.0041 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+pamper_hello:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+sell_4:  Normal Distribution. Mean = 0.0083 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+sold_4:  Normal Distribution. Mean = 0.0124 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+steve_job:  Normal Distribution. Mean = 0.0413 StandardDev = 0.199 WeightSum = 484 Precision = 1.0
+tech_war:  Normal Distribution. Mean = 0.0145 StandardDev = 0.1667 WeightSum = 484 Precision = 1.0
+world_babi:  Normal Distribution. Mean = 0.0289 StandardDev = 0.1676 WeightSum = 484 Precision = 1.0
+
+
+Class positive: Prior probability = 0.14
+
+3_dai:  Normal Distribution. Mean = 0.014 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+4_million:  Normal Distribution. Mean = 0.035 StandardDev = 0.1837 WeightSum = 143 Precision = 1.0
+AMPERSAND:  Normal Distribution. Mean = 0.042 StandardDev = 0.2005 WeightSum = 143 Precision = 1.0
+ASTERISK:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+AT_SIGN:  Normal Distribution. Mean = 0.979 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_appl:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_dear:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_hei:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_iphon:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_love:  Normal Distribution. Mean = 0.049 StandardDev = 0.2158 WeightSum = 143 Precision = 1.0
+BOL_new:  Normal Distribution. Mean = 0.014 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+BOL_rt:  Normal Distribution. Mean = 0.0699 StandardDev = 0.255 WeightSum = 143 Precision = 1.0
+BOL_thank:  Normal Distribution. Mean = 0.042 StandardDev = 0.2005 WeightSum = 143 Precision = 1.0
+BOL_wait:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+CLOSE_PAREN:  Normal Distribution. Mean = 0.1119 StandardDev = 0.3152 WeightSum = 143 Precision = 1.0
+COLON:  Normal Distribution. Mean = 0.3357 StandardDev = 0.4722 WeightSum = 143 Precision = 1.0
+COMMA:  Normal Distribution. Mean = 0.1888 StandardDev = 0.3914 WeightSum = 143 Precision = 1.0
+DASH:  Normal Distribution. Mean = 0.1189 StandardDev = 0.3236 WeightSum = 143 Precision = 1.0
+DOLLAR:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+EXCLAMATION_MARK:  Normal Distribution. Mean = 0.3497 StandardDev = 0.4769 WeightSum = 143 Precision = 1.0
+FORWARDSLASH:  Normal Distribution. Mean = 0.2168 StandardDev = 0.4121 WeightSum = 143 Precision = 1.0
+NUMBER_SIGN:  Normal Distribution. Mean = 0.3916 StandardDev = 0.4881 WeightSum = 143 Precision = 1.0
+PERCENT_SIGN:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+PERIOD:  Normal Distribution. Mean = 0.6503 StandardDev = 0.4769 WeightSum = 143 Precision = 1.0
+PLUSSIGN:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+QUESTION_MARK:  Normal Distribution. Mean = 0.042 StandardDev = 0.2005 WeightSum = 143 Precision = 1.0
+SEMI_COLON:  Normal Distribution. Mean = 0.028 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+app_store:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_fan:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_io:  Normal Distribution. Mean = 0.028 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_iphon:  Normal Distribution. Mean = 0.028 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_ipod:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_pleas:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_sell:  Normal Distribution. Mean = 0.021 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_store:  Normal Distribution. Mean = 0.0629 StandardDev = 0.2428 WeightSum = 143 Precision = 1.0
+appl_tech:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+appl_thank:  Normal Distribution. Mean = 0.028 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+babi_memori:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+batteri_drain:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+batteri_life:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+custom_servic:  Normal Distribution. Mean = 0.028 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+eric_holder:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+fan_eric:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+geniu_bar:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+geniu_store:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+great_tech:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+hello_world:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+holder_spot:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+io_5:  Normal Distribution. Mean = 0.0629 StandardDev = 0.2428 WeightSum = 143 Precision = 1.0
+ios5_updat:  Normal Distribution. Mean = 0.014 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+iphon_4:  Normal Distribution. Mean = 0.021 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+iphon_4s:  Normal Distribution. Mean = 0.0699 StandardDev = 0.255 WeightSum = 143 Precision = 1.0
+ipod_touch:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+macbook_pro:  Normal Distribution. Mean = 0.021 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+memori_app:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+million_iphon:  Normal Distribution. Mean = 0.021 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+mommi_gaga:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+new_io:  Normal Distribution. Mean = 0.014 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+new_ios5:  Normal Distribution. Mean = 0.021 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+new_iphon:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+new_mov:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+new_phone:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+pamper_hello:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+sell_4:  Normal Distribution. Mean = 0.014 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+sold_4:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+steve_job:  Normal Distribution. Mean = 0.007 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+tech_war:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+world_babi:  Normal Distribution. Mean = 0 StandardDev = 0.1667 WeightSum = 143 Precision = 1.0
+
+=== Feature Selection Settings ===
+
+(Tokenizer's language version: English)
+Punctuation= true
+Unigrams= false
+Bigrams= true
+POS Bigrams= false
+Line length= false
+Remove stopwords= true
+Stem= true
+Contains non-stopwords= false
+Remove rare features= true
+   -Freq. threshold for feature removal= 5
+User Defined= false
+
+=== Summary ===
+
+Correctly Classified Instances        4236               72.1267 %
+Incorrectly Classified Instances      1637               27.8733 %
+Kappa statistic                          0.043 
+K&B Relative Info Score            -106867.4456 %
+K&B Information Score                -1329.8079 bits     -0.2264 bits/instance
+Class complexity | order 0            7302.0392 bits      1.2433 bits/instance
+Class complexity | scheme             8131.1266 bits      1.3845 bits/instance
+Complexity improvement     (Sf)       -829.0875 bits     -0.1412 bits/instance
+Mean absolute error                      0.2574
+Root mean squared error                  0.3437
+Relative absolute error                118.8653 %
+Root relative squared error            104.4657 %
+Total Number of Instances             5873     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 4196  121    1   12 |    a = irrelevant
+  379   35    0    0 |    b = negative
+  514   25    5    0 |    c = neutral
+  532   53    0    0 |    d = positive
+
