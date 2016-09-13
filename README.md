@@ -1,2 +1,2 @@
 # TwitterSentimentAnalysis
-Sentiment Analysis of twitter data to build a classifier that from analysied data.
+Sentiment Analysis of twitter data to build a classifier from analysed data.
